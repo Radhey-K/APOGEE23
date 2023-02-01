@@ -1,0 +1,2 @@
+## Python Jail
+Since no alphabets are allowed and the system will execute the command we provide to the input, we can input $0 which translates to ```/bin/sh``` as this is the first argument to any command. The system will give us a shell which can be used to read flag.txt

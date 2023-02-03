@@ -1,7 +1,7 @@
 ## esoFuck
 
 ### Description
-I've heard about brainf*ck but what the f*ck js this?
+I've heard about brainf\*ck but what the f\*ck js this?
 
 ### Sol
 JSFuck

@@ -9,4 +9,4 @@ Monoalphabetic substitution cipher.
 
 Frequency analyzer: https://quipqiup.com/
 
-flag: grepCTF{its_not_always_rot}
+### flag: grepCTF{its_not_always_rot}
